@@ -7,6 +7,6 @@ This contains the code for the empirical case studies that aims to do the follow
 
 # Data
 
-Put the data in /data accessible here: (to complete)
+Put the data in /data, which are accessible here: https://portal.idiv.de/owncloud/index.php/apps/files/?dir=/sLandServ/manuscripts/framework_ms/data&fileid=35467426
 
 This data is not uploaded to GitHub.
